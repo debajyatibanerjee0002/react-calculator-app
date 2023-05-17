@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "react-calculator-app-58a82",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
